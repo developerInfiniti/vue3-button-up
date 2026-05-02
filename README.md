@@ -1,7 +1,7 @@
 <snippet>
   <content>
   
-##  [vue2-3-button-up-down](https://github.com/AlexeyZelenko/vue3_typescript/tree/master/src/vue-button-up) with Vue3 and Vue2.
+##  [vue2-3-button-up-down](https://github.com/developerInfiniti/vue3_typescript/tree/master/src/vue-button-up) with Vue3 and Vue2.
 
 <p align="center">
     <a href="https://www.npmjs.com/package/vue-button-up">
